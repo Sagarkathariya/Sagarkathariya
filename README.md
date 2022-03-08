@@ -1,4 +1,4 @@
-### Hi there 👋, My name is Sagar Kathariya
+### Hi 👋, I'm SAGAR KATHARIYA
 #### A TeCH Passionate
 ![A TeCH Passionate](https://pbs.twimg.com/profile_banners/549129894/1646765915/1080x360)
 
