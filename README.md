@@ -2,7 +2,7 @@
 #### A TeCH Passionate
 A Tech passionate From Dhangadhi. My current Interest in Java, Spring Boot, Angular, ASP.NET, JavaScript & Mobile Application Development.
 
-Skills: Java, Spring Boot, JavaScript, ASP.NET
+Skills: C, C++, Java, Spring Boot, JavaScript, ASP.NET etc...
 
 - 🌱 I’m currently learning Angular, ASP.NET, Java, Spring Boot, JavaScript, Mobile Application Development. 
 - 📫 How to reach me: **sgrkathariya@gmail.com**
