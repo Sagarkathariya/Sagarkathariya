@@ -5,7 +5,7 @@ A Tech passionate From Dhangadhi. My current Interest in Java, Spring Boot, Angu
 Skills: Java, Spring Boot, JavaScript, ASP.NET
 
 - 🌱 I’m currently learning Angular, ASP.NET, Java, Spring Boot, JavaScript, Mobile Application Development. 
-- 📫 How to reach me: ([Link](https://g.dev/sagar-kathariya))
+- 📫 How to reach me: **sgrkathariya@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
