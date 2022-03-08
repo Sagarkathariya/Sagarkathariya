@@ -1,6 +1,7 @@
-### Hi there 👋, My name is Sagar Kathariya.
+### Hi there 👋, my name is Sagar Kathariya
 #### A TeCH Passionate
-(https://pbs.twimg.com/profile_banners/549129894/1646765915/1080x360)
+![A TeCH Passionate](https://pbs.twimg.com/profile_banners/549129894/1646765915/1080x360)
+
 A Tech passionate From Dhangadhi. My current Interest in Java, Spring Boot, Angular, ASP.NET, JavaScript & Mobile Application Development.
 
 Skills: C, C++, Java, Spring Boot, JavaScript, ASP.NET etc...
