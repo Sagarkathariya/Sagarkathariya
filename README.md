@@ -5,7 +5,7 @@ A Tech passionate From Dhangadhi. My current Interest in Java, Spring Boot, Angu
 Skills: Java, Spring Boot, JavaScript, ASP.NET
 
 - 🌱 I’m currently learning Angular, ASP.NET, Java, Spring Boot, JavaScript, Mobile Application Development. 
-- 📫 How to reach me: Linkedin, Facebook, Twitter 
+- 📫 How to reach me: ([Link](https://g.dev/sagar-kathariya))
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Sagarkathariya)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sagar-kathariya/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/sagar.kathariya/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/sagarkathariya)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://sagarkathariya.com.np)  
