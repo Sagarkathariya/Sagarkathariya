@@ -1,6 +1,6 @@
 ### Hi 👋, I'm SAGAR KATHARIYA
 #### A TeCH Enthusiast
-![A TeCH Passionate](https://pbs.twimg.com/profile_banners/549129894/1649170690/1500x500)
+![A TeCH Passionate](https://pbs.twimg.com/profile_banners/549129894/1649172360/1500x500)
 
 A Tech passionate From Dhangadhi. My current Interest in Java, Spring Boot, Angular, ASP.NET, JavaScript & Mobile Application Development.
 
