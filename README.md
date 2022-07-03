@@ -31,7 +31,7 @@ Skills: C, C++, Java, Spring Boot, PHP, Laravel, JavaScript, Android etc...
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Sagarkathariya&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Sagarkathariya)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Sagarkathariya)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Sagarkathariya)  
 
